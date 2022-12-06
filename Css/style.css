@@ -50,7 +50,14 @@ footer{
     
 }
 
-main {
-    width: 940px;
-    margin: 0 auto;
+@media screen and (max-width: 480px) { 
+    .caixa {
+        width: auto;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position:static;
+    }
 }
