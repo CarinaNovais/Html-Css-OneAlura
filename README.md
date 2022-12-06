@@ -5,7 +5,7 @@ São 4 cursos:
 
 1 - HTML e CSS: Crie uma pagina
 
-2 - HTML e CSS: Posicionamento, listas e nanvegação
+2 - HTML e CSS: Posicionamento, listas e navegação
 
 3 - HTML e CSS: Trabalhando com formulario e tabelas
 
