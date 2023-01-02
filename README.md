@@ -1,5 +1,5 @@
 # Html-Css-OneAlura
-Aprofundando conhecimentos sobre HTML-CSSS (um pouco de js tbm)
+Aprofundando conhecimentos sobre HTML-CSSS 
 
 São 4 cursos:
 
